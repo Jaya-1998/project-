@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Login
-    Created on : Aug 16, 2018, 2:09:25 PM
-    Author     : Sam
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
