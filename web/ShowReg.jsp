@@ -1,8 +1,3 @@
-<%-- 
-    Document   : ShowReg
-    Created on : Aug 16, 2018, 4:21:10 PM
-    Author     : Sam
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
