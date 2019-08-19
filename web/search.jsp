@@ -1,8 +1,3 @@
-<%-- 
-    Document   : search
-    Created on : Aug 17, 2018, 3:34:33 PM
-    Author     : Atul
---%>
 
 <%@page import="java.util.ArrayList"%>
 <%@page import="java.util.List"%>
