@@ -1,8 +1,3 @@
-<%-- 
-    Document   : StudentReg
-    Created on : Aug 16, 2018, 11:38:23 AM
-    Author     : Sam
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
