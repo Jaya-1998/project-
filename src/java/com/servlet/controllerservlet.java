@@ -16,10 +16,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import pojo.Student;
 
-/**
- *
- * @author Sam
- */
+
 public class controllerservlet extends HttpServlet {
 
     static NewClass dbcon;
