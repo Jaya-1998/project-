@@ -5,10 +5,7 @@
  */
 package pojo;
 
-/**
- *
- * @author Sam
- */
+
 public class Login {
     int id;
     String username;
